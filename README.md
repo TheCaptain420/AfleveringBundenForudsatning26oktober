@@ -8,4 +8,4 @@ I denne aflevering er der lavet 4 klasser:
 -**DatHoldet.java**: Er en skabelon, der laver et datamatiker hold, bestående af en masse studerende, som bliver lavet fra klassen Studerende.java.  
 -**MineMetoder.java**: Er klasse, der indeholder ting vi har lært i programmering i september: String, Løkker, Random(), Scanner() og enums.  
   
-Lavet af: Mads Nielsen **@TheCaptain** :anchor:
+Lavet af: Mads Nielsen **@TheCaptain420** :anchor:
